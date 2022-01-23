@@ -18,7 +18,7 @@ Change the Model and coords to move the ped
             options = {
                 {
                     type = "client",
-                    event = "UNKNOWN-SECRETSHOP:ItemCheck",
+                    event = "unknown-buyitems:ItemCheck",
                     icon = 'fas fa-store',
                     label = 'Purchase goods',
                 },
