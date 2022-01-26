@@ -2,6 +2,8 @@
  
 # This is a script I've had for a while, Just added a few configurable options.
 
+preview:- https://streamable.com/p2kf4y
+
 
 # Requires QB-Target
 
