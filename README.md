@@ -8,7 +8,7 @@ preview:- https://streamable.com/p2kf4y
 # Requires QB-Target
 
 Change the Model and coords to move the ped
-
+```
 ["SecretShop"] = {
         model = 'a_c_rhesus',
         coords = vector4(295.08, -1116.25, 29.44, 29.82),
@@ -29,3 +29,4 @@ Change the Model and coords to move the ped
         },
         currentpednumber = 0,
     },
+```
